@@ -1,0 +1,8 @@
+.bot-army{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-color: blueviolet;
+border: 5px blueviolet;
+font-size: 14px;
+}
